@@ -84,7 +84,7 @@
     (나한테 사진이 이것밖에 없는게 아쉽네요ㅠ)
   </body>
 
-    <h1><a href="C:/Users/강무겸/Desktop/web/birthday.html" target="_blank">생일축하해요</a></h1>
+    <h1><a href="https://mukyum.github.io/birthday/" target="_blank">생일축하해요</a></h1>
 <h3>↑<br>
 click here</h3>
 
