@@ -82,7 +82,7 @@
     <img src="37.JPG" width=20%>
     <img src="38.JPG" width=20%>
     (나한테 사진이 이것밖에 없는게 아쉽네요ㅠ)
-  </body>    
+  </body>
 
     <h1><a href="https://mukyum.github.io/birthday/" target="_blank">생일축하해요</a></h1>
 <h3>↑<br>
